@@ -9,7 +9,8 @@ import {
   FileText,
   ArrowRight,
   Play,
-  Calendar
+  Calendar,
+  Palette
 } from 'lucide-react';
 import { GlassCard, GlassButton } from '@/components/glass';
 import { useAuthStore } from '@/store/authStore';
